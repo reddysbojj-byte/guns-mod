@@ -1,0 +1,14 @@
+{
+  "itemGroup.gunsmod_guns": "Firearms",
+  "item.gunsmod.steel_ingot": "Steel Ingot",
+  "item.gunsmod.bullet": "9mm Bullet",
+  "item.gunsmod.bullet_box": "Bullet Box (30x)",
+  "item.gunsmod.gun_barrel": "Gun Barrel",
+  "item.gunsmod.gun_handle": "Gun Handle",
+  "item.gunsmod.gun_stock": "Gun Stock",
+  "item.gunsmod.pistol": "Pistol",
+  "item.gunsmod.revolver": "Revolver",
+  "item.gunsmod.rifle": "Sniper Rifle",
+  "item.gunsmod.shotgun": "Shotgun",
+  "item.gunsmod.smg": "SMG"
+}

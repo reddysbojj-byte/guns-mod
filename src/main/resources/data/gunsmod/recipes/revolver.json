@@ -1,0 +1,22 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "BI",
+    "BH"
+  ],
+  "key": {
+    "B": {
+      "item": "gunsmod:gun_barrel"
+    },
+    "H": {
+      "item": "gunsmod:gun_handle"
+    },
+    "I": {
+      "item": "minecraft:iron_ingot"
+    }
+  },
+  "result": {
+    "item": "gunsmod:revolver",
+    "count": 1
+  }
+}

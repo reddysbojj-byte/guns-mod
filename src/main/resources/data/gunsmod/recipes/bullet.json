@@ -1,0 +1,19 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    " I",
+    " F"
+  ],
+  "key": {
+    "I": {
+      "item": "minecraft:iron_ingot"
+    },
+    "F": {
+      "item": "minecraft:flint"
+    }
+  },
+  "result": {
+    "item": "gunsmod:bullet",
+    "count": 8
+  }
+}

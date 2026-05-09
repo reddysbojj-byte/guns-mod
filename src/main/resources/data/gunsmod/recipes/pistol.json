@@ -1,0 +1,18 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "BH"
+  ],
+  "key": {
+    "B": {
+      "item": "gunsmod:gun_barrel"
+    },
+    "H": {
+      "item": "gunsmod:gun_handle"
+    }
+  },
+  "result": {
+    "item": "gunsmod:pistol",
+    "count": 1
+  }
+}

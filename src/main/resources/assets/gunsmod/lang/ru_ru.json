@@ -1,0 +1,14 @@
+{
+  "itemGroup.gunsmod_guns": "Огнестрельное оружие",
+  "item.gunsmod.steel_ingot": "Стальной слиток",
+  "item.gunsmod.bullet": "Патрон 9мм",
+  "item.gunsmod.bullet_box": "Коробка патронов (30шт)",
+  "item.gunsmod.gun_barrel": "Ствол",
+  "item.gunsmod.gun_handle": "Рукоятка",
+  "item.gunsmod.gun_stock": "Приклад",
+  "item.gunsmod.pistol": "Пистолет",
+  "item.gunsmod.revolver": "Револьвер",
+  "item.gunsmod.rifle": "Снайперская винтовка",
+  "item.gunsmod.shotgun": "Дробовик",
+  "item.gunsmod.smg": "Пистолет-пулемёт"
+}

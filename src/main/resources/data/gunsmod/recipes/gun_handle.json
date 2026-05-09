@@ -1,0 +1,19 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "I ",
+    "IS"
+  ],
+  "key": {
+    "I": {
+      "item": "gunsmod:steel_ingot"
+    },
+    "S": {
+      "item": "minecraft:stick"
+    }
+  },
+  "result": {
+    "item": "gunsmod:gun_handle",
+    "count": 1
+  }
+}

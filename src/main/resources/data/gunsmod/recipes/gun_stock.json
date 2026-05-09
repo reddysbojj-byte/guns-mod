@@ -1,0 +1,19 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "PPP",
+    "II "
+  ],
+  "key": {
+    "P": {
+      "item": "minecraft:oak_planks"
+    },
+    "I": {
+      "item": "gunsmod:steel_ingot"
+    }
+  },
+  "result": {
+    "item": "gunsmod:gun_stock",
+    "count": 1
+  }
+}

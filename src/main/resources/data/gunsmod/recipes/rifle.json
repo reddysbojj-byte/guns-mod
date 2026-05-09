@@ -1,0 +1,22 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "BBBH",
+    "  S "
+  ],
+  "key": {
+    "B": {
+      "item": "gunsmod:gun_barrel"
+    },
+    "H": {
+      "item": "gunsmod:gun_handle"
+    },
+    "S": {
+      "item": "gunsmod:gun_stock"
+    }
+  },
+  "result": {
+    "item": "gunsmod:rifle",
+    "count": 1
+  }
+}

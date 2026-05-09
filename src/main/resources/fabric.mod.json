@@ -1,0 +1,28 @@
+{
+  "schemaVersion": 1,
+  "id": "gunsmod",
+  "version": "${version}",
+  "name": "Guns Mod",
+  "description": "Adds pistol, revolver, rifle, shotgun with bullets and reload system!",
+  "authors": [
+    "Player"
+  ],
+  "license": "MIT",
+  "environment": "*",
+  "entrypoints": {
+    "main": [
+      "com.gunsmod.GunsMod"
+    ],
+    "client": [
+      "com.gunsmod.GunsModClient"
+    ]
+  },
+  "mixins": [
+    "gunsmod.mixins.json"
+  ],
+  "depends": {
+    "fabricloader": ">=0.14.0",
+    "fabric": "*",
+    "minecraft": "1.16.5"
+  }
+}

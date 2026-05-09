@@ -1,0 +1,16 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "BBB",
+    "BBB"
+  ],
+  "key": {
+    "B": {
+      "item": "gunsmod:bullet"
+    }
+  },
+  "result": {
+    "item": "gunsmod:bullet_box",
+    "count": 1
+  }
+}
